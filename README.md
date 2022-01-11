@@ -9,6 +9,10 @@
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://web.facebook.com/emdadullah101"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.instagram.com/mdemdadullahahammed/"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Instagram-%231877F2.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/developeremdad"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Twitter-%231877F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   
 </p>
 
