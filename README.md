@@ -14,7 +14,7 @@
 
 <p>
 
-- I am a Full-Stack Web Developer <br />
+- I am a Full-Stack Web Developer and Student of Computer Science And Engineering <br />
 - Love to write code <br />
 - Like to share knowledge <br />
 - Exploring: JavaScript, React, Node, Mongo, Express.js
