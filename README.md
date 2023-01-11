@@ -46,6 +46,7 @@
 <br/>
 
 ##
+<a href="https://app.daily.dev/developerEmdad"><img src="https://api.daily.dev/devcards/322e52e3a53d49bfb5a1555bafbb1245.png?r=u5x" width="400" alt="Md Emdadullah's Dev Card"/></a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developeremdad&show_icons=true&locale=en&layout=compact"alt="developeremdad" /></p>
 
