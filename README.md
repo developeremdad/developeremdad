@@ -63,4 +63,6 @@
 
 <a href="mailto:mdemdadullahahammed@gmail.com">
   <img alt="gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a> || <a href="mailto:developeremdad@gmail.com">
+  <img alt="gmail" title="Gmail" src="https://img.shields.io/badge/Gmail-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
