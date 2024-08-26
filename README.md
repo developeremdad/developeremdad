@@ -66,7 +66,7 @@
 </div>
 
 <p align="right">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=developeremdad&show_icons=true&theme=tokyonight" alt="Emdad's GitHub stats" />
+  <img align="right"  width="300" src="https://github-readme-stats.vercel.app/api?username=developeremdad&show_icons=true&theme=tokyonight" alt="Emdad's GitHub stats" />
 </p>
 <br/>
 <br/>
