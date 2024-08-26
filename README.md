@@ -2,7 +2,7 @@
 
 ## Hi, I'm Md Emdadullah
 
-### Current Stats
+### 📊 Current Stats
 
 <p align="center">
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=developeremdad&theme=react&hide_border=true&background=0d1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
@@ -10,7 +10,7 @@
 
 <br />
 
-### Reach me out
+### 📶 Reach me out
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mdemdadullah/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -30,7 +30,7 @@
 
 <br/>
 
-### Current overview
+### 👀 Current overview
 
 <p>
 
@@ -47,7 +47,7 @@
 
 <br />
 
-### My Skills
+### 💻 My Skills
 
 | **Backend (TS)**  | ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-404d59.svg?style=for-the-badge&logo=express&logoColor=white) ![Mongoose](https://img.shields.io/badge/Mongoose-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Zod](https://img.shields.io/badge/Zod-ff9c2f?style=for-the-badge&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-ffcc00?style=for-the-badge&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | :---------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -59,19 +59,27 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=developeremdad&theme=github-dark-dimmed&custom_title=Developeremdad%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#### 📚 Daily Learning From <a target='_blank' href='https://app.daily.dev/'>Daily Dev</a>
+#### 📚 Others Activities
 
-<a href="https://app.daily.dev/developerEmdad"><img src="https://api.daily.dev/devcards/322e52e3a53d49bfb5a1555bafbb1245.png?r=u5x" width="400" alt="Md Emdadullah's Dev Card"/></a>
+### Other Activities
 
-<br/>
-<hr />
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=developeremdad&show_icons=true&locale=en&layout=compact"alt="developeremdad" /></p>
-
-<br />
-
-![Emdad's GitHub stats](https://github-readme-stats.vercel.app/api?username=developeremdad&show_icons=true&theme=tokyonight)
-<br/>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Left Column -->
+  <a href="https://app.daily.dev/developerEmdad">
+    <img src="https://api.daily.dev/devcards/322e52e3a53d49bfb5a1555bafbb1245.png?r=u5x" width="400" alt="Md Emdadullah's Dev Card"/>
+  </a>
+  
+  <!-- Right Column -->
+  <div>
+    <p align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developeremdad&show_icons=true&locale=en&layout=compact" alt="developeremdad" />
+    </p>
+    <br />
+    <p align="center">
+      ![Emdad's GitHub stats](https://github-readme-stats.vercel.app/api?username=developeremdad&show_icons=true&theme=tokyonight)
+    </p>
+  </div>
+</div>
 
 ## 📧 For Any Inquiries:
 
