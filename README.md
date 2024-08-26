@@ -2,6 +2,10 @@
 
 ## Hi, I'm Md Emdadullah
 
+<p>To be passionate about web development and design. I am supposed to obtain a paced organization where technical skills and creative thinking are useful as well as capable of sharing my quick learning ability and discovering new things as a web developer.</p>
+
+<br/>
+
 ### 📊 Current Stats
 
 <p align="center">
@@ -41,10 +45,6 @@
 
 </p>
 
-<br/>
-
-<p>To be passionate about web development and design. I am supposed to obtain a paced organization where technical skills and creative thinking are useful as well as capable of sharing my quick learning ability and discovering new things as a web developer.</p>
-
 <br />
 
 ### 💻 My Skills
@@ -56,10 +56,13 @@
 | **Comfortable**   | ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Data Structure](https://img.shields.io/badge/Data_Structure-00599C?style=for-the-badge&logoColor=white) ![Algorithm](https://img.shields.io/badge/Algorithm-009688?style=for-the-badge&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-6A5ACD?style=for-the-badge&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
 <br/>
+<br/>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=developeremdad&theme=github-dark-dimmed&custom_title=Developeremdad%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#### 📚 Other Activities
+<br/>
+
+### 📚 Other Activities
 
 <div align="left">
   <a href="https://app.daily.dev/developerEmdad">
@@ -79,7 +82,7 @@
 
 <br clear="both" />
 
-## 📧 For Any Inquiries:
+### 📧 For Any Inquiries
 
 <a href="mailto:mdemdadullahahammed@gmail.com">
   <img alt="gmail" title="mdemdadullahahammed@gmail.com" src="https://img.shields.io/badge/Gmail-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
