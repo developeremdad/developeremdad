@@ -28,6 +28,8 @@
   </a>
 </p>
 
+<br/>
+
 ### Current overview
 
 <p>
@@ -55,6 +57,8 @@
 
 <br/>
 
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=developeremdad&theme=github-dark-dimmed&custom_title=Developeremdad%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 #### 📚 Daily Learning From <a target='_blank' href='https://app.daily.dev/'>Daily Dev</a>
 
 <a href="https://app.daily.dev/developerEmdad"><img src="https://api.daily.dev/devcards/322e52e3a53d49bfb5a1555bafbb1245.png?r=u5x" width="400" alt="Md Emdadullah's Dev Card"/></a>
@@ -76,3 +80,7 @@
 </a>  <a href="mailto:developeremdad@gmail.com">
   <img alt="gmail" title="developeremdad@gmail.com" src="https://img.shields.io/badge/Gmail-%230077B5.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
