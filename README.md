@@ -62,18 +62,21 @@
 #### 📚 Other Activities
 
 <div align="left">
-<a href="https://app.daily.dev/developerEmdad"><img align="left"  src="https://api.daily.dev/devcards/322e52e3a53d49bfb5a1555bafbb1245.png?r=u5x" width="250" alt="Md Emdadullah's Dev Card"/></a>
+  <a href="https://app.daily.dev/developerEmdad">
+    <img align="left" src="https://api.daily.dev/devcards/322e52e3a53d49bfb5a1555bafbb1245.png?r=u5x" width="250" alt="Md Emdadullah's Dev Card"/>
+  </a>
 </div>
 
 <p align="right">
-  <img align="right"  width="300" src="https://github-readme-stats.vercel.app/api?username=developeremdad&show_icons=true&theme=tokyonight" alt="Emdad's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=developeremdad&show_icons=true&theme=tokyonight" width="300" alt="Emdad's GitHub stats" />
 </p>
-<br/>
-<br/>
-
-<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=developeremdad&show_icons=true&locale=en&layout=compact"alt="developeremdad" /></p>
 
 <br/>
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developeremdad&show_icons=true&locale=en&layout=compact" alt="developeremdad" />
+</p>
+
 <br clear="both" />
 
 ## 📧 For Any Inquiries:
