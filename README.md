@@ -1,4 +1,5 @@
-![Profile views](https://i.ibb.co/kD4ysYH/emdad-linked-In-cover.png)
+<!-- ![Profile views](https://i.ibb.co/kD4ysYH/emdad-linked-In-cover.png) -->
+<img src="https://raw.githubusercontent.com/developeremdad/developeremdad/main/assets/cover.cover" />
 
 ## Hi, I'm Md Emdadullah
 
