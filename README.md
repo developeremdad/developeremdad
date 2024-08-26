@@ -59,27 +59,20 @@
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=developeremdad&theme=github-dark-dimmed&custom_title=Developeremdad%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-#### 📚 Others Activities
+#### 📚 Other Activities
 
-### Other Activities
-
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <!-- Left Column -->
-  <a href="https://app.daily.dev/developerEmdad">
-    <img src="https://api.daily.dev/devcards/322e52e3a53d49bfb5a1555bafbb1245.png?r=u5x" width="400" alt="Md Emdadullah's Dev Card"/>
-  </a>
-  
-  <!-- Right Column -->
-  <div>
-    <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developeremdad&show_icons=true&locale=en&layout=compact" alt="developeremdad" />
-    </p>
-    <br />
-    <p align="center">
-      ![Emdad's GitHub stats](https://github-readme-stats.vercel.app/api?username=developeremdad&show_icons=true&theme=tokyonight)
-    </p>
-  </div>
+<div align="left">
+<a href="https://app.daily.dev/developerEmdad"><img align="left"  src="https://api.daily.dev/devcards/322e52e3a53d49bfb5a1555bafbb1245.png?r=u5x" width="200" alt="Md Emdadullah's Dev Card"/></a>
 </div>
+
+<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=developeremdad&show_icons=true&locale=en&layout=compact"alt="developeremdad" /></p>
+
+<p align="right">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=developeremdad&show_icons=true&theme=tokyonight" alt="Emdad's GitHub stats" />
+</p>
+
+<br/>
+<br clear="both" />
 
 ## 📧 For Any Inquiries:
 
