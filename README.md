@@ -2,38 +2,48 @@
 
 ## Hi, I'm Md Emdadullah
 
+### Current Stats
+
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=developeremdad&theme=react&hide_border=true&background=0d1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
+
+<br />
+
+### Reach me out
+
 <p align="center">
   <a href="https://www.linkedin.com/in/mdemdadullah/"><img alt="Linkedin" title="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/developeremdad"><img alt="Github" title="Github" src="https://img.shields.io/badge/Github-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://devemdad.netlify.app">
+    <img alt="Personal Website" title="Personal Website" src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://web.facebook.com/emdadullah101"><img alt="Facebook" title="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.instagram.com/mdemdadullahahammed"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/developeremdad"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://devemdad-portfolio.netlify.app/">
-  <img alt="Personal Website" title="Personal Website" src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=web&logoColor=white"/>
-</a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-
+  <a href="https://twitter.com/developeremdad">
+    <img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
 </p>
+
+### Current overview
 
 <p>
 
 - I am a Full-Stack Web Developer and a graduate of Computer Science and Engineering(CSE) <br />
 - Love to write code <br />
 - Like to share knowledge <br />
-- Exploring: JavaScript, TypeScript, React, Node, Mongo, Express.js
+- Exploring: JavaScript, TypeScript, React, Next.js, Node, MongoDB, Express, PostgreSQL, Prisma.
 
 </p>
 
 <br/>
 
-<p>To be passionate about web development and design. I am supposed to obtain a fresher-paced organization where technical skills and creative thinking are useful as well as capable of sharing my quick learning ability and discovering new things as a web developer.</p>
+<p>To be passionate about web development and design. I am supposed to obtain a paced organization where technical skills and creative thinking are useful as well as capable of sharing my quick learning ability and discovering new things as a web developer.</p>
 
-### My Skills:
+### My Skills
 
 | Programming Languages       | ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 | :-------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
