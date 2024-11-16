@@ -77,7 +77,7 @@
 <br/>
 
 <p align="right">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developeremdad&show_icons=true&locale=en&layout=compact" alt="developeremdad" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=developeremdad&show_icons=true&locale=en&layout=compact&hide=css" alt="developeremdad" />
 </p>
 
 <br clear="both" />
