@@ -1,4 +1,4 @@
-![Profile views](https://res.cloudinary.com/dwijckjzi/image/upload/v1724663355/portfolio/cover_nigcbm.png)
+![Profile views](assets/cover.png)
 
 ## Hi, I'm Md Emdadullah
 
