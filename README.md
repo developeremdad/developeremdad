@@ -41,7 +41,7 @@
 - I am a Full-Stack Web Developer and a graduate of Computer Science and Engineering(CSE) <br />
 - Love to write code <br />
 - Like to share knowledge <br />
-- Exploring: JavaScript, TypeScript, React, Next.js, Node, MongoDB, Express, PostgreSQL, Prisma.
+- Exploring: JavaScript, TypeScript, React, Next.js, Node, Express, Nest, MongoDB, PostgreSQL, Prisma.
 
 </p>
 
