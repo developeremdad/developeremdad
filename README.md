@@ -8,7 +8,9 @@
 
 ### 📊 Current Stats
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=developeremdad&theme=dark&exclude_days=Sun&card_width=600" alt="GitHub Streak" /></a>
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=developeremdad&theme=dark&exclude_days=Sun&card_width=600" alt="GitHub Streak" /></a>
+</p>
 
 <br />
 
